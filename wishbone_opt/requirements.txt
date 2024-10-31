@@ -1,0 +1,6 @@
+wheel
+numpy
+matplotlib
+scikit-optimize
+tqdm
+ipywidgets
